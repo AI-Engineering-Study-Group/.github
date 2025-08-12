@@ -18,6 +18,8 @@ Building AI expertise through collaborative learning, practical projects, and kn
 
 ### Our Learning Structure
 
+- **August 2025:** Google ADK Documentation
+
 | Frequency | Activity | Current Status |
 |-----------|----------|----------------|
 | **Monthly** | Resource Study | 📖 Google ADK Documentation |
@@ -28,28 +30,6 @@ Building AI expertise through collaborative learning, practical projects, and kn
 ## 🚀 Active Projects
 
 ### 📊 [docugent](https://github.com/AI-Engineering-Study-Group/docugent)
-
-**Document Intelligence & Analysis**
-
-- Built with Google ADK backbone
-- Document processing and AI-powered analysis
-- `Python` | `11 stars` | `Active development`
-
-### 🔄 [RTAC](https://github.com/AI-Engineering-Study-Group/RTAC)
-
-**Real-Time Analysis & Control**
-
-- Advanced real-time data processing
-- AI-driven control systems
-- `Python` | `7 stars` | `1 issue needs help`
-
-## 📚 Learning Resources
-
-### Current Quarter Resources
-
-- **August 2025:** Google ADK Documentation
-- **September 2025:** AI Ethics & Frameworks
-- **October 2025:** Advanced Machine Learning Architectures
 
 ### Completed Studies
 
@@ -83,13 +63,6 @@ Building AI expertise through collaborative learning, practical projects, and kn
 - 🐛 **Issues:** Report bugs or suggest improvements
 - 🚀 **Projects:** Track progress on our project boards
 - 📖 **Wiki:** Access our shared knowledge base
-
 ---
-
-### 📈 Recent Activity
-
-- 🔄 **docugent:** Updated last week - Document processing enhancements
-- 🔄 **RTAC:** Updated last week - Real-time analysis improvements
-- 📝 **Organization:** Profile updated today
 
 **Ready to learn and build amazing AI projects together? Let's get started! 🚀**
