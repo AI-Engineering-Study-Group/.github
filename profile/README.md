@@ -4,7 +4,7 @@ Welcome to our collaborative AI learning community! We're a group of engineers a
 
 ## 📅 Study Schedule
 
-### Current Focus: **Google ADK (Android Development Kit)**
+### Current Focus: **Google ADK (Agent Development Kit)**
 
 **Week of August 12, 2025**
 
